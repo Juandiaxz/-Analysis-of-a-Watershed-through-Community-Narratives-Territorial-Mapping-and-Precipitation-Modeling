@@ -2,6 +2,10 @@
 
 Repositorio con los scripts desarrollados para el control de calidad, análisis exploratorio y pronóstico de precipitación diaria mediante un enfoque híbrido basado en suavizamiento exponencial y una red LSTM residual.
 
+## CARPETA CON RESULTADOS Y GRAFICAS
+https://unisalleedu-my.sharepoint.com/:f:/g/personal/judiaz38_unisalle_edu_co/IgAEbzZlEH_qRoM-dpWEaXpJAbHdo7KEJGN9cw73TiWwyOg?e=d1RdfS
+
+Acceso con el link
 ## Objetivo
 
 Procesar y analizar una serie histórica de precipitación, identificar su estructura temporal y construir un modelo de pronóstico a un día en el que:
